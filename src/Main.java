@@ -72,7 +72,6 @@ public class Main {
         System.out.println("Общий вес двух бойцов " + fighterWeight + " кг");
         var differenceWeight = fighterTwo - fighterOne;
         System.out.println("Разница между весами бойцов " + differenceWeight + " кг");
-
     }
     public static void task7 () {
         System.out.println("Задача 7");
